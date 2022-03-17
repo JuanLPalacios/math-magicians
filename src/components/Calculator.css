@@ -1,0 +1,28 @@
+.Calculator {
+  display: flex;
+  flex-wrap: wrap;
+  width: 250px;
+}
+
+.Calculator > * {
+  width: 25%;
+  background: var(--seconday-2-color);
+  border: solid 1px var(--seconday-3-color);
+  border-width: 1px 1px 0 0;
+  padding: 10px 2px;
+}
+
+.Calculator > .result {
+  background: var(--seconday-color);
+  color: var(--seconday-2-color);
+  width: 100%;
+  text-align: right;
+}
+
+.Calculator > .orange {
+  background: var(--primary-color);
+}
+
+.Calculator > .w-2 {
+  width: 50%;
+}
