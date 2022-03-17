@@ -17,6 +17,7 @@
   color: var(--seconday-2-color);
   width: 100%;
   text-align: right;
+  min-height: 18px;
 }
 
 .Calculator > .orange {

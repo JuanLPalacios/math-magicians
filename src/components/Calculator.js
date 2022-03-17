@@ -20,10 +20,14 @@ class Calculator extends Component {
   }
 
   render() {
-    const { next, total } = this.state;
+    const { next, total, operation } = this.state;
     return (
       <div className="Calculator">
-        <div className="result">{next || total || 0}</div>
+        <div className="result">
+          {total || ''}
+          {operation || ''}
+          {next || ''}
+        </div>
 
         <button type="button" onClick={this.handleCalculate}>AC</button>
         <button type="button" onClick={this.handleCalculate}>+/-</button>
