@@ -1,0 +1,18 @@
+.NavBar {
+  display: flex;
+  padding: 0 10vw;
+}
+
+.NavBar > * {
+  flex: 1 1 auto;
+}
+
+.NavBar > nav {
+  flex: 0 0 auto;
+}
+
+.NavBar > nav > ul {
+  display: flex;
+  list-style: none;
+  gap: 12px;
+}
