@@ -3,4 +3,10 @@
   --seconday-color: #7b7f8f;
   --seconday-2-color: #e6e6e6;
   --seconday-3-color: #d4d4d4;
+  --seconday-4-color: #27292e;
+}
+
+body {
+  margin: 0;
+  background-color: var(--seconday-2-color);
 }

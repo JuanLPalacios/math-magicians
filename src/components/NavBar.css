@@ -1,0 +1,39 @@
+.NavBar {
+  display: flex;
+  background-color: var(--seconday-color);
+  color: var(--seconday-2-color);
+  padding: 0 10vw;
+}
+
+.NavBar > * {
+  flex: 1 1 auto;
+}
+
+.NavBar > nav {
+  display: flex;
+  align-items: stretch;
+  flex: 0 0 auto;
+}
+
+.NavBar > nav > ul {
+  display: flex;
+  align-items: stretch;
+  list-style: none;
+  margin: 0;
+}
+
+.NavBar ul > li {
+  display: flex;
+  align-items: stretch;
+  align-items: center;
+}
+
+.NavBar ul > li:hover {
+  background-color: var(--primary-color);
+}
+
+.NavBar ul a {
+  color: var(--seconday-2-color);
+  text-decoration: none;
+  padding: 31px 6px;
+}

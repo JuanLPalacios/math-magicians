@@ -1,7 +1,10 @@
+![](https://img.shields.io/badge/Microverse-blueviolet)
+
 # math-magicians
 "Math magicians" is a SPA for all fans of mathematics that allows them to make simple calculations and read a random math-related quote.
 
-![](https://img.shields.io/badge/Microverse-blueviolet)
+## Live Demo
+Click [here](https://juanlpalacios.github.io/math-magicians/) to see the live demo.
 
 ## Getting Started
 
@@ -62,9 +65,8 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Built With
 
-- JSX
-- JavaScript
 - React
+- JavaScript
 - CSS
 
 ## Author

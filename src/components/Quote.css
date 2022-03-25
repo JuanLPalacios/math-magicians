@@ -1,0 +1,7 @@
+.Quote {
+  display: block;
+}
+
+.Quote q {
+  font-weight: bold;
+}
