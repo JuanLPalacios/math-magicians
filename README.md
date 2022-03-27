@@ -4,7 +4,11 @@
 "Math magicians" is a SPA for all fans of mathematics that allows them to make simple calculations and read a random math-related quote.
 
 ## Live Demo
-Click [here](https://juanlpalacios.github.io/math-magicians/) to see the live demo.
+[GitHub Page](https://juanlpalacios.github.io/math-magicians/)
+
+[Netlify](https://stupendous-beignet-074a88.netlify.app/)
+
+[Heroku](https://palacios-math-magicians.herokuapp.com/)
 
 ## Getting Started
 
